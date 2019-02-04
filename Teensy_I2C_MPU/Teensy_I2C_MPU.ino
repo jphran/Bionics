@@ -5,6 +5,7 @@
    Version: 1.0
 
    @ read data from MPU 9250 at 500 Hz and 16 bit resolution
+   commit
 */
 
 #include <Wire.h>
