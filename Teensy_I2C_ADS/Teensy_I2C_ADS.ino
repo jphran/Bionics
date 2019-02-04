@@ -5,7 +5,7 @@
    Version: 1.0
 
    @ read data from hall sensors via ADS1115 at 500Hz and 16 bit resolution
-   Test: Commit 3
+   
 */
 
 #include <Wire.h>
